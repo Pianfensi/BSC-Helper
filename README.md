@@ -1,2 +1,6 @@
 # BSC-Helper
-Firefox-Version 78 oder Chrome-Version 84 notwendig.
+Unterstützte Browser
+Firefox 78
+Chrome 84
+Opera 70
+Edge 84
